@@ -1,5 +1,7 @@
 .custom-background {
     background-color: #BED7DC;
+    
+
 }
 
 
@@ -19,14 +21,14 @@
 }
 
 .top-container {
-    display: block;
-    margin-right: 80px;
-
+    margin-right: 140px;
+    width: 700px;
 }
 
 #title {
     width: 100%;
-    height: 750px;
+    height: 650px;
+   width: 2000px;
 }
 
 .intro-title {
@@ -114,7 +116,7 @@
     font-weight: 800;
     font-style: normal;
     color: #DAB88B;
-    font-size: 50px;
+    font-size: 40px;
 }
 
 .hero {
@@ -137,7 +139,7 @@
     transition: color 0.3s;
     margin-inline-start: 20px;
     text-align: center;
-    margin-bottom: 100px;
+
 }
 
 .bottom-container .footer-link:hover {
@@ -145,7 +147,7 @@
 }
 
 .bottom-container .copyright {
-    margin-top: 50px;
+    margin-top: 30px;
     color: whitesmoke;
 }
 
